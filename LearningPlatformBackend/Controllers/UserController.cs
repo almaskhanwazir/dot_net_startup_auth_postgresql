@@ -5,8 +5,6 @@ using LearningPlatformBackend.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
 
 namespace LearningPlatformBackend.Controllers
 {
