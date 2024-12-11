@@ -50,7 +50,7 @@ Secure API design patterns with hashing, roles, and token expiration strategies.
 ⚙️ How to Set Up
 Clone this repository:
 
-git clone https://github.com/yourusername/yourrepo.git
+git clone [.net startup ](https://github.com/almaskhanwazir/dot_net_startup_auth_postgresql)
 cd yourrepo
 
 
